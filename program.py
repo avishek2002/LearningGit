@@ -3,8 +3,6 @@
 
 # Update1.1 extended to check if name is valid or not.
 
-# This is updated again (without any change other than this line) and will be reverted.
-
 # user inputs first name and last name
 fname = input("Enter your first name : ")
 lname = input("Enter your last name : ")
